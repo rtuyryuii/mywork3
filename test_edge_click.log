@@ -1,0 +1,77 @@
+﻿
+2026-08-28 08:47:24 - INFO - ================ Start Native Edge GUI Automation ================
+2026-08-28 08:47:24 - INFO - Starting background screenshot job...
+2026-08-28 08:47:26 - INFO - Launching Microsoft Edge (Maximized)...
+2026-08-28 08:47:41 - INFO - Searching for EXACT screen text: [Create your Microsoft account]...
+2026-08-28 08:48:10 - INFO - OCR Attempt 1 Raw Text: [Loading... X j C) https://signup.live.com Search 8:47 AM 8/28/2026]
+2026-08-28 08:48:10 - INFO - Associated Frame Screenshot: No Screenshot Found
+2026-08-28 08:48:10 - INFO - MATCH FAILED on attempt 1 for [Create your Microsoft account]
+2026-08-28 08:48:15 - INFO - OCR Attempt 2 Raw Text: [Create your Microsoft account C https://signup.live.com/?lic= 1 Microsoft Create your Microsoft account Enter your email address. Already have an account? Sign in Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:48 AM 8/28/2026]
+2026-08-28 08:48:15 - INFO - Associated Frame Screenshot: shot_20260828_084812_0020.png
+2026-08-28 08:48:15 - INFO - MATCH SUCCESS! Found exact string [Create your Microsoft account] on attempt 2!
+2026-08-28 08:48:15 - INFO - Clicking coordinate (518, 386)...
+2026-08-28 08:48:15 - INFO - Random pause for 4s after click...
+2026-08-28 08:48:20 - INFO - Pasting Line 1 from account.txt -> [paoishrinly41185@outlook.com]
+2026-08-28 08:48:20 - INFO - Random pause for 4s after typing...
+2026-08-28 08:48:24 - INFO - Clicking coordinate (516, 458)...
+2026-08-28 08:48:25 - INFO - Random pause for 4s after click...
+2026-08-28 08:48:32 - INFO - Searching for EXACT screen text: [Create your password]...
+2026-08-28 08:48:35 - INFO - OCR Attempt 1 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:48 AM 8/28/2026]
+2026-08-28 08:48:35 - INFO - Associated Frame Screenshot: shot_20260828_084831_0038.png
+2026-08-28 08:48:35 - INFO - MATCH SUCCESS! Found exact string [Create your password] on attempt 1!
+2026-08-28 08:48:35 - INFO - Clicking coordinate (516, 362)...
+2026-08-28 08:48:35 - INFO - Random pause for 3s after click...
+2026-08-28 08:48:38 - INFO - Pasting Line 2 from account.txt -> [fg6sqby3]
+2026-08-28 08:48:38 - INFO - Random pause for 3s after typing...
+2026-08-28 08:48:41 - INFO - Clicking coordinate (500, 605)...
+2026-08-28 08:48:41 - INFO - Random pause for 3s after click...
+2026-08-28 08:48:47 - INFO - Searching for EXACT screen text: [Add details]...
+2026-08-28 08:48:50 - INFO - OCR Attempt 1 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:48 AM 8/28/2026]
+2026-08-28 08:48:50 - INFO - Associated Frame Screenshot: shot_20260828_084847_0053.png
+2026-08-28 08:48:50 - INFO - MATCH FAILED on attempt 1 for [Add details]
+2026-08-28 08:48:55 - INFO - OCR Attempt 2 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:48 AM 8/28/2026]
+2026-08-28 08:48:55 - INFO - Associated Frame Screenshot: shot_20260828_084852_0058.png
+2026-08-28 08:48:55 - INFO - MATCH FAILED on attempt 2 for [Add details]
+2026-08-28 08:48:59 - INFO - OCR Attempt 3 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:48 AM 8/28/2026]
+2026-08-28 08:48:59 - INFO - Associated Frame Screenshot: shot_20260828_084856_0062.png
+2026-08-28 08:48:59 - INFO - MATCH FAILED on attempt 3 for [Add details]
+2026-08-28 08:49:04 - INFO - OCR Attempt 4 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:04 - INFO - Associated Frame Screenshot: shot_20260828_084900_0066.png
+2026-08-28 08:49:04 - INFO - MATCH FAILED on attempt 4 for [Add details]
+2026-08-28 08:49:09 - INFO - OCR Attempt 5 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:09 - INFO - Associated Frame Screenshot: shot_20260828_084906_0071.png
+2026-08-28 08:49:09 - INFO - MATCH FAILED on attempt 5 for [Add details]
+2026-08-28 08:49:13 - INFO - OCR Attempt 6 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:13 - INFO - Associated Frame Screenshot: shot_20260828_084910_0075.png
+2026-08-28 08:49:13 - INFO - MATCH FAILED on attempt 6 for [Add details]
+2026-08-28 08:49:18 - INFO - OCR Attempt 7 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:18 - INFO - Associated Frame Screenshot: shot_20260828_084915_0080.png
+2026-08-28 08:49:18 - INFO - MATCH FAILED on attempt 7 for [Add details]
+2026-08-28 08:49:23 - INFO - OCR Attempt 8 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:23 - INFO - Associated Frame Screenshot: shot_20260828_084920_0084.png
+2026-08-28 08:49:23 - INFO - MATCH FAILED on attempt 8 for [Add details]
+2026-08-28 08:49:27 - INFO - OCR Attempt 9 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:27 - INFO - Associated Frame Screenshot: shot_20260828_084924_0088.png
+2026-08-28 08:49:27 - INFO - MATCH FAILED on attempt 9 for [Add details]
+2026-08-28 08:49:32 - INFO - OCR Attempt 10 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:32 - INFO - Associated Frame Screenshot: shot_20260828_084929_0093.png
+2026-08-28 08:49:32 - INFO - MATCH FAILED on attempt 10 for [Add details]
+2026-08-28 08:49:36 - INFO - OCR Attempt 11 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:36 - INFO - Associated Frame Screenshot: shot_20260828_084933_0097.png
+2026-08-28 08:49:36 - INFO - MATCH FAILED on attempt 11 for [Add details]
+2026-08-28 08:49:41 - INFO - OCR Attempt 12 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:41 - INFO - Associated Frame Screenshot: shot_20260828_084938_0101.png
+2026-08-28 08:49:41 - INFO - MATCH FAILED on attempt 12 for [Add details]
+2026-08-28 08:49:46 - INFO - OCR Attempt 13 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:46 - INFO - Associated Frame Screenshot: shot_20260828_084943_0106.png
+2026-08-28 08:49:46 - INFO - MATCH FAILED on attempt 13 for [Add details]
+2026-08-28 08:49:50 - INFO - OCR Attempt 14 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:50 - INFO - Associated Frame Screenshot: shot_20260828_084947_0110.png
+2026-08-28 08:49:50 - INFO - MATCH FAILED on attempt 14 for [Add details]
+2026-08-28 08:49:55 - INFO - OCR Attempt 15 Raw Text: [Create your password C https://signup.live.com/?lic= 1 Microsoft paoishrinIr41185@outIook.com Create your password To keep your Microsoft account safe, choose a long password and avoid using real words. Password O Passwords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols. Help and feedback Terms of use Privacy and cookies if this is Lærn Q Search 8:49 AM 8/28/2026]
+2026-08-28 08:49:55 - INFO - Associated Frame Screenshot: shot_20260828_084952_0115.png
+2026-08-28 08:49:55 - INFO - MATCH FAILED on attempt 15 for [Add details]
+2026-08-28 08:49:57 - INFO - TIMEOUT: Exact string [Add details] not found after 15 retries.
+2026-08-28 08:49:57 - INFO - All steps executed successfully. Holding screen for 10s...
+2026-08-28 08:50:07 - INFO - Background screenshot job stopped.
+2026-08-28 08:50:07 - INFO - ================ Automation Task Finished ================
